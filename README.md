@@ -184,6 +184,7 @@ We also included [Perplexity and Cursor.sh prompts](#formatting-prompt-templates
 | [Steamship](https://steamship.com/) | An SDK and hosting platform for AI agents and tools, both a package manager and package hosting service for AI |
 | [Streamlit](https://streamlit.io/) | An open-source Python library designed for creating and sharing custom web apps for ML and data science |
 | [Modal](https://modal.com) | A platform that enables running distributed applications using the modal Python package | 
+| [Heroku](https://www.heroku.com.com) | An enterprise-grade, polyglot development platform with managed data services, such as Heroku Postgres with pgvector support | 
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
 
